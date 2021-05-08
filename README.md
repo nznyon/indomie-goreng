@@ -1,2 +1,1 @@
-# indomie-goreng
-Setor sini bang
+#Setor di sini aja bang
